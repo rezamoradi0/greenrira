@@ -10,8 +10,6 @@ import video from "/2.mp4"; // Replace with your video path
 function App() {
   return (
     <div className="app-container">
-     
-  
       <div
         className="container"
         style={{
@@ -28,7 +26,7 @@ function App() {
         </h1>
         <h2 style={{ textAlign: "center" }}>
           <span>We are proud to announce that </span>
-          <strong style={{ fontWeight: "bold" }}>Rina Sabz Ointment</strong>
+          <strong style={{ fontWeight: "bold" }}>Greenreina Ointment</strong>
           <span>
             {" "}
             has been officially approved for its quality and effectiveness.
@@ -60,7 +58,7 @@ function App() {
 
           <h3 style={{ fontWeight: "bold" }}>Quality Assurance:</h3>
           <p>
-            Rina Sabz Ointment has passed rigorous testing to guarantee safety
+            Greenreina Ointment has passed rigorous testing to guarantee safety
             and efficiency. We are committed to offering only the best for our
             customers.
           </p>
