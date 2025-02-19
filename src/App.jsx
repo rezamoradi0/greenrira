@@ -24,7 +24,7 @@ function App() {
         }}
       >
         <h1 style={{ textAlign: "center" }}>
-          GreenRina Ointment: Official Approval
+          Greenreina Ointment: Official Approval
         </h1>
         <h2 style={{ textAlign: "center" }}>
           <span>We are proud to announce that </span>
